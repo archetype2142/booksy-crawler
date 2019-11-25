@@ -1,2 +1,2 @@
-# booksy-crawler
+# Booksy crawler
 Crawler for booksy
